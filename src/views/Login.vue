@@ -22,7 +22,7 @@
                 </div>
             </div>
         </div>
-        <div class="card col-md-4 mt-5">
+        <div class="card col-md-4 mt-5 ">
             <h4 class="text-center p-4">Please use this email and password to Login</h4>
             <p><span class="me-5">Email:</span> saiyannaing@user.com</p>
             <p><span class="me-3">Password:</span> 3333333</p>

@@ -10,7 +10,7 @@
           <p class="mb-5">+959799790472</p>
           </div>
           <div class="card-footer text-end">
-            <div class="btn btn-outline-primary">Edit</div>
+            <router-link to="/product" class="btn btn-outline-primary">Show Products</router-link>
           </div>
         </div>
       </div>

@@ -7,3 +7,10 @@
         margin-left: 0 !important;
     }
 }
+
+body{
+    height: 100vh;
+} 
+.container{
+    height: 100%;
+}
