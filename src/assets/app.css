@@ -1,0 +1,9 @@
+@media (max-width : 735px) {
+    .edit{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .ms-5{
+        margin-left: 0 !important;
+    }
+}
